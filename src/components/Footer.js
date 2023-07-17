@@ -14,12 +14,12 @@ function Footer() {
     <div className='text-white footer'>
         <hr/>
         <div className='py-5 flex justify-center gap-5 social xs:text-xs'>
-            <a href='instagram.com'><Instagram/></a>
-            <a href='#'><Youtube/></a>
-            <a href='#'><Whatsapp/></a>
-            <a href='#'><Telegram/></a>
-            <a href='#'><FacebookIcon/></a>
-            <a href='#'><Twitter/></a>          
+            <a href='https://instagram.com/CinemasNG'><Instagram/></a>
+            <a href='https://youtube.com/@CinemasNG'><Youtube/></a>
+            <a href='https://wa.me/2348120252493'><Whatsapp/></a>
+            <a href='https://t.me/CinemasNG'><Telegram/></a>
+            <a href='https://facebook.com/KazMPIRE'><FacebookIcon/></a>
+            <a href='https://twitter.com/CinemasNG'><Twitter/></a>          
         </div>
         <div className='py-5 text-center foot xs:text-xs'>
             <div className='flex justify-center gap-3'>
